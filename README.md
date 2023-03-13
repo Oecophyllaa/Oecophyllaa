@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rangga.godzila@gmail.com**
 
-- ⚡ Fun fact **Melanophile**
+- ⚡ Fun fact **INFJ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
