@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **rangga.godzila@gmail.com**
 
-- ⚡ Fun fact **INFJ**
+- ⚡ Fun fact **Aries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
