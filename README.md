@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AI, Metaverse, WebDev**
 
-- 💬 Ask me about **TFOD, BabylonJS, PHP**
+- 💬 Ask me about **Laravel WebDev**
 
 - 📫 How to reach me **rangga.godzila@gmail.com**
 
