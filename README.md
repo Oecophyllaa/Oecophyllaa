@@ -1,15 +1,15 @@
 [![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)](https://oecophylla.showwcase.com)
 <h1 align="center">Hi 👋, I'm Rangga Raditya Nugroho</h1>
 <h3 align="center">A passionate Junior Web Developer from Sidoarjo, East Java, Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
+<img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oecophyllaa&label=Profile%20views&color=0e75b6&style=flat" alt="oecophyllaa" /> </p>
 
 - 🔭 I’m currently studying on **Jember State Polytechnic**
 
-- 🌱 I’m currently learning **AI, Metaverse, WebDev**
+- 🌱 I’m currently learning **Full-Stack Web Development, TALL, MERN, Web Security**
 
-- 💬 Ask me about **Laravel WebDev**
+- 💬 Ask me about **Full-Stack Laravel Web Development**
 
 - 📫 How to reach me **rangga.godzila@gmail.com**
 
