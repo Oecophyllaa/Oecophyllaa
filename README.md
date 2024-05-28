@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)](https://oecophylla.showwcase.com)
+[![MasterHead](https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif)](https://oecophylla.showwcase.com)
 <h1 align="center">Hi 👋, I'm Rangga Raditya Nugroho</h1>
 <h3 align="center">A passionate Junior Web Developer from Sidoarjo, East Java, Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" />
