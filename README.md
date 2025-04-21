@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif)](https://oecophylla.showwcase.com)
+[![Header](https://i.ibb.co.com/G31GWrPW/github-header-image.png)](https://oecophylla.my.id)
 <h1 align="center">Hi 👋, I'm Rangga Raditya Nugroho</h1>
 <h3 align="center">A passionate Junior Web Developer from Sidoarjo, East Java, Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" />
