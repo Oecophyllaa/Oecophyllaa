@@ -5,14 +5,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=oecophyllaa&label=Profile%20views&color=0e75b6&style=flat" alt="oecophyllaa" /> </p>
 
 ### Languages and Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,bootstrap,tailwind,codeigniter,laravel,vite,vue,react,nuxt,next,postman,mysql,postgresql,mongodb,metabase&theme=light&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,bootstrap,tailwind,codeigniter,laravel,vite,vue,react,nuxt,next,postman,mysql,postgresql,mongodb,metabase&theme=light&perline=9)
 
 ### Connect with me
-![https://www.instagram.com/oecophylla](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://www.linkedin.com/in/oecophylla](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://github.com/Oecophyllaa](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![https://gitlab.com/Oecophyllaa](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oecophylla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oecophylla)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oecophyllaa)
+[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Oecophyllaa)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]()
 
 
 ### My Github Stats
