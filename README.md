@@ -1,6 +1,6 @@
 ![My Github Banner](./images/github-header-image.png)
 
-<h2 align="center">Hi 👋, I'm Rangga Raditya Nugroho</h2>
+<h1 align="center">Hi 👋, I'm Rangga Raditya Nugroho</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=oecophyllaa&label=Profile%20views&color=0e75b6&style=flat" alt="oecophyllaa" /> </p>
 
@@ -16,8 +16,8 @@
 
 
 ### My Github Stats
-![Oecophyllaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=oecophylla&show_icons=true&theme=github_dark)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oecophyllaa&" alt="oecophyllaa" /></p>
+![Oecophyllaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oecophylla&show_icons=true&theme=great-gatsby)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Oecophyllaa&theme=highcontrast)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oecophyllaa/oecophyllaa/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oecophyllaa/oecophyllaa/output/pacman-contribution-graph.svg">
