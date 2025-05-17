@@ -1,19 +1,8 @@
 ![My Github Banner](./images/github-header-image.png)
 
 <h2 align="center">Hi 👋, I'm Rangga Raditya Nugroho</h2>
-<img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oecophyllaa&label=Profile%20views&color=0e75b6&style=flat" alt="oecophyllaa" /> </p>
-
-- 🔭 I’m currently studying on **Jember State Polytechnic**
-
-- 🌱 I’m currently learning **Full-Stack Web Development, TALL, MERN, Web Security**
-
-- 💬 Ask me about **Full-Stack Laravel Web Development**
-
-- 📫 How to reach me **rangga.godzila@gmail.com**
-
-- ⚡ Fun fact **Aries**
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=oecophyllaa&label=Profile%20views&color=0e75b6&style=flat" alt="oecophyllaa" /> </p>
 
 ### Languages and Tools
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,bootstrap,tailwind,codeigniter,laravel,vite,vue,react,nuxt,next,postman,mysql,postgresql,mongodb,metabase&theme=light&perline=10)
